@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Software+Engineer+;Community+Builder;Front+End+Developer;Graphic+Designer;Competitive+Programmer" alt="Typing SVG" /></a>
+  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Software+Engineer+;Community+Builder;Front+End+Developer;Graphic+Designer;Competitive+Programmer" alt="Typing SVG" /></a>
 </p>
 
 <!-- Brief Text About Myself -->
@@ -35,12 +35,12 @@
 - 🔭 I’m Currently Working as - [Software Engineer @ Capgemini]<br>
 - 🌱 I’m Currently Learning `Full Stack Development` <br>
 - 💻 Founder @ All About Progamming
-- 👨‍💻 My Portfolio : [Single_Landing_Page](https://puneetportfolio.netlify.app/) 
+- 👨‍💻 My Portfolio : [My_Page](https://puneetportfolio.netlify.app/) 
 - 📱 My Profile Card : [Profile_Card](https://its-puneet.github.io/Profile-Card/) 
 - 👯 I’m Looking to Collaborate On `Open Source Projects.` <br>
 - 💬 Ask Me About : Anything Related To `D3 - Design, Develop & Deploy.` <br>
 - 📄 Know about My Projects : [My_Projects](https://github.com/its-puneet?tab=repositories)
-- 📧 Feel Free to Contact Me : [Contact_Form](tel:7710797542) <br>
+- 📧 Feel Free to Contact Me : [7710797542] <br>
 - 📫 How To Reach Me : *puneetsdua@gmail.com* <br>
 <br>
 
@@ -58,10 +58,10 @@
 <a href="https://twitter.com/itspuneet1609" target="blank" title="Twitter">
 	<img align="left" alt="Twitter" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/puneet-singh-6085681b5/" title="LinkedIN">
+<a href="https://www.linkedin.com/in/puneetsingh1609/" title="LinkedIN">
 	<img align="left" alt="LinkedIN" height="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://api.whatsapp.com/send/?phone=8567805002&text&type=phone_number&app_absent=0" title="Facebook">
+<a href="https://www.facebook.com/people/Puneet-Singh/100005404994279/" title="Facebook">
 	<img align="left" alt="Facebook" height="25px" src="https://user-images.githubusercontent.com/50111192/124475263-2df2d580-ddaa-11eb-8c77-fe58223f5360.png" />
 </a>
 
@@ -103,8 +103,3 @@
 <!-- Activity Graph -->
 
 [![Puneet's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=its-puneet&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- ##GitHub Profile Trophy -->
-<p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=its-puneet)](https://github.com/ryo-ma/github-profile-trophy)
- </p>
