@@ -103,3 +103,7 @@
 <!-- Activity Graph -->
 
 [![Puneet's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=its-puneet&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+### 🐍 Watch Snake eating my contribution:
+![snake svg](https://github.com/its-puneet/its-puneet/blob/output/github-contribution-grid-snake.svg)
