@@ -7,8 +7,8 @@
 </p>
 
 <!-- Brief Text About Myself -->
-<h4 align="center"> Software Engineer @ Capgemini | I'm An Full Stack Developer | </h4>
-<h4 align="center"> Founder @ All About Programming | Co-Founder @ Codedu. </h4> 
+<h4 align="center"> Software Engineer @ Edifecs | I'm An Full Stack Developer | </h4>
+<h4 align="center"> Founder @ All About Programming | Azure Developer Lead Ludhiana @ Microsoft </h4> 
  
 <!-- Typing Master Picture --> 
 <img align="right" alt="GIF" src="https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/images/coding-gif.gif" width="500"/>
@@ -32,7 +32,7 @@
 ### <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23"> Hi Developers <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
 
 *Here Are Some Of The Points to know more about Me :* 
-- 🔭 I’m Currently Working as - [Software Engineer @ Capgemini]<br>
+- 🔭 I’m Currently Working as - [Software Engineer @ Edifecs]<br>
 - 🌱 I’m Currently Learning `Full Stack Development` <br>
 - 💻 Founder @ All About Progamming
 - 👨‍💻 My Portfolio : [My_Page](https://puneetportfolio.netlify.app/) 
