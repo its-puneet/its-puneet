@@ -7,8 +7,8 @@
 </p>
 
 <!-- Brief Text About Myself -->
-<h4 align="center"> Software Engineer @ Edifecs | I'm An Full Stack Developer | </h4>
-<h4 align="center"> Founder @ All About Programming | Azure Developer Lead Ludhiana @ Microsoft </h4> 
+<h4 align="center"> Implementation Consultant @ Cotiviti | I'm An Full Stack Developer | </h4>
+<h4 align="center"> Founder @ All About Programming | Azure Developer Lead, Ludhiana @ Microsoft </h4> 
  
 <!-- Typing Master Picture --> 
 <img align="right" alt="GIF" src="https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/images/coding-gif.gif" width="500"/>
